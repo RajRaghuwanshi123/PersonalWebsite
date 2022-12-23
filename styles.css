@@ -1,0 +1,35 @@
+body{
+    color: antiquewhite;
+    text-align: center;
+    padding: 100px 400px 100px 400px;
+    background-size: cover;
+    
+}
+h2{
+    font-weight: lighter;
+font-family: 'Exo 2', sans-serif
+}
+p
+{
+    text-align: left;
+    font-family: 'Caveat', cursive;
+}
+#center
+{
+    background-color: rgba(0,0,0 , 0.6);
+    padding: 3rem;
+    border-radius: 5rem;
+}
+.img-profile{
+    border-radius: 4rem;
+}
+body
+{
+  background: url(bg.png) no-repeat;
+}
+.icon
+{
+    height: 35px;
+    width: 35px;
+    padding: 20px 15px 0px 15px;
+}
